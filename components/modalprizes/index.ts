@@ -1,0 +1,1 @@
+export { ModalPrizes } from './modalprizes';

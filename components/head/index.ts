@@ -1,0 +1,1 @@
+export { HeadCustom as Head } from './head';

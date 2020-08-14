@@ -1,0 +1,1 @@
+export { AwardsBox } from './awardsbox'

@@ -1,0 +1,9 @@
+{
+  "extends": "react-app",
+  "plugins": ["eslint-plugin-cypress"],
+  "env": {"cypress/globals": true},
+  "rules": {
+    "@typescript-eslint/no-explicit-any": "warn",
+    "react/display-name": ["error", { "ignoreTranspilerName": true }]
+  }
+}
